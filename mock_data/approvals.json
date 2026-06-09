@@ -1,0 +1,18 @@
+[
+  {
+    "release_name": "Axiom SL 24.06.1 Core Banking",
+    "service": "Payments Gateway",
+    "requested_by": "Ravi Menon",
+    "requested_at": "2026-06-09 09:15",
+    "notes": "Release candidate includes fraud-screening and settlement fixes.",
+    "status": "Pending"
+  },
+  {
+    "release_name": "Axiom SL 24.06.1 Digital Lending",
+    "service": "Lending Platform",
+    "requested_by": "Jules Carter",
+    "requested_at": "2026-06-09 08:40",
+    "notes": "Requires compliance sign-off before production promotion.",
+    "status": "Pending"
+  }
+]
